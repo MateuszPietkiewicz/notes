@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Protocols.md",
+                "file": "Notes/Iterable,Iterator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocols"
+              "title": "Iterable,Iterator"
             }
           }
         ],
@@ -206,20 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f6516f03dae6aba",
+  "active": "5d97a957da2bdd5d",
   "lastOpenFiles": [
+    "Notes/Hashable.md",
+    "Notes/Iterable,Iterator.md",
+    "Notes/Protocols.md",
+    "Notes/Sized.md",
+    "Notes/Container.md",
     "CV/Socials.md",
     "Pasted image 20250211223032.png",
     "Pasted image 20250211222957.png",
-    "Notes/Hashable.md",
     "CV",
-    "Notes/Sized.md",
-    "Notes/Protocols.md",
-    "Notes/Iterable,Iterator.md",
     "Notes/example.md",
     "Notes/Metaclass.md",
     "Notes/UV.md",
-    "Notes/Container.md",
     "Template/Command Template.md",
     "Untitled.canvas",
     "Template/Default Template.md",

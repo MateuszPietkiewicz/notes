@@ -66,3 +66,10 @@ for liczba in generator():
 
 📌 **Każdy `Iterator` jest `Iterable`, ale nie każde `Iterable` jest `Iterator`em!**  
 Przykładowo, lista (`list`) jest iterowalna (`Iterable`), ale sama w sobie **nie jest iteratorem** – trzeba wywołać `iter(lista)`, aby otrzymać iterator.
+
+
+---
+Metadata:
+
+Status: #pending
+Tags: #protocols 
