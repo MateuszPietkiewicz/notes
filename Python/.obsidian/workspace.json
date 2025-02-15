@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Iterable,Iterator.md",
+                "file": "Notes/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterable,Iterator"
+              "title": "Docker"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#empty",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,14 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d97a957da2bdd5d",
+  "active": "b1e644aaa397385a",
   "lastOpenFiles": [
-    "Notes/Hashable.md",
+    "CV/Socials.md",
+    "Notes/Docker.md",
     "Notes/Iterable,Iterator.md",
+    "Notes/Hashable.md",
     "Notes/Protocols.md",
     "Notes/Sized.md",
     "Notes/Container.md",
-    "CV/Socials.md",
     "Pasted image 20250211223032.png",
     "Pasted image 20250211222957.png",
     "CV",
