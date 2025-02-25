@@ -34,6 +34,10 @@ pytest -m marker_name
 
 #bez traceback z podsumowaniem na końcu
 pytest -v --tb=no
+
+# warunki logiczne do -k
+pytest -v --tb=no -k  "(dict or ids) and not inequality"
+
 ```
 
 ---
