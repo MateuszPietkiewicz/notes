@@ -28,9 +28,9 @@ def test_answer():
 3. [[TestPlan]] - strategia testowania, zbiór test suite i test case
 4. Assert - sprawdzenie warunku, jeżeli false to fail
 
+[[Pytest CLI]]
 
 
-### [[Pytest CLI]]
 
 
 ---

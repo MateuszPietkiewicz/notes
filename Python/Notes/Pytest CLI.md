@@ -2,8 +2,6 @@ Created: 2025-02-25 20:48
 
 ---
 
-
-
 ```shell
 # odpala wszytkie testy
 pytest
