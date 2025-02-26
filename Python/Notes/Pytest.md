@@ -27,6 +27,9 @@ def test_answer():
 2. [[TestSuite]] - zestaw logicznie połączonych test case (w pytest robi się za pomocą python module lub python class) (oddzielamy plikami)
 3. [[TestPlan]] - strategia testowania, zbiór test suite i test case
 4. Assert - sprawdzenie warunku, jeżeli false to fail
+5. [[Fixtures]] - przygotowanie do posprzatania po teście/testach
+
+
 
 [[Pytest CLI]]
 

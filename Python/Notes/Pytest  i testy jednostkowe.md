@@ -41,6 +41,7 @@ pytest -v            # Szczegółowy output
 
 ```
 
+
 ---
 Metadata:
 

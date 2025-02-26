@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pytest  i testy jednostkowe.md",
+                "file": "Notes/Fixtures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pytest  i testy jednostkowe"
+              "title": "Fixtures"
             }
           }
         ],
@@ -194,14 +194,15 @@
   },
   "active": "429141264cb77cc0",
   "lastOpenFiles": [
-    "Notes/Pytest CLI.md",
     "Notes/Pytest.md",
+    "Notes/Fixtures.md",
+    "Notes/Pytest  i testy jednostkowe.md",
+    "Notes/Pytest CLI.md",
     "Notes/Pytest Fixture.md",
     "Notes/TestCase.md",
     "Notes/Pytest Coverage.md",
     "Notes/Docker.md",
     "Notes/String.md",
-    "Notes/Pytest  i testy jednostkowe.md",
     "Notes/Pytest Wtyczki.md",
     "Notes/UV.md",
     "Notes/Sized.md",
