@@ -28,6 +28,18 @@ def some_data():
 def test_dome_data(some_data):  
     assert some_data == 42
 ```
+
+### Monkey Patch pytest
+	
+	- setattr(target, name, value, raising=True)
+	- delattr(target, name, raising=True)
+	- setitem(dict, name, value)
+	- deitem(dict, name, raising=True)
+	- setenv(name, value, prepend=None) - ustawia zmienną środowiskową
+	- delenv(name, raising=True)
+	- syspath_prepend(path) - modyfikacja importów python (sys.path)
+	- chdir(path) - zmienia aktualny folder
+
 ---
 Metadata:
 
