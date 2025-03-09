@@ -1,6 +1,9 @@
 Created: 2025-03-02 06:55
 
+
 ---
+	2 wymiary, tabela
+	
 	product	quantity	price
 		0	apple	10	0.5
 		1	banana	5	0.3
