@@ -31,7 +31,6 @@ def test_user(sample_data):
 
 **🔹 Wykonywanie kodu przed i po teście (yield)**
 
-
 ```python
 
 @pytest.fixture
