@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pytest folder/Pytest Fixture.md",
+                "file": "Notes/DataStack/Struktura projektu Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pytest Fixture"
+              "title": "Struktura projektu Data Science"
             }
           }
         ]
@@ -179,17 +179,17 @@
   },
   "active": "0233c0c7a28f14d2",
   "lastOpenFiles": [
-    "Notes/DataStack/DataFrame.md",
-    "Notes/DataStack/Struktura projektu Data Science.md",
     "Notes/DataStack/Rysunek maltplotlib.md",
+    "Notes/DataStack/DataFrame.md",
+    "Notes/Docker/Docker.md",
+    "Notes/Pytest folder/Pytest Fixture.md",
+    "Notes/DataStack/Struktura projektu Data Science.md",
     "Notes/Untitled.md",
     "Notes/Pytest folder/Fixtures.md",
-    "Notes/Docker/Docker.md",
     "Notes/Container.md",
     "Notes/Pytest folder",
     "Notes/DataStack",
     "Notes/Docker",
-    "Notes/Pytest folder/Pytest Fixture.md",
     "Notes/Pytest folder/Pytest Wtyczki.md",
     "Notes/Series.md",
     "Notes/Pytest folder/Pytest.md",

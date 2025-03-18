@@ -4,8 +4,6 @@ Created: 2025-02-24 08:43
 
 **📝 3. Pytest Fixtures**
 
-  
-
 **🔹 Co to jest fixture?**
 
 • fixture to mechanizm pozwalający na **przygotowanie i czyszczenie środowiska testowego**.
