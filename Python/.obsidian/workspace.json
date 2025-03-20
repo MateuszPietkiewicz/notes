@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Pandas początek i wczytywanie danych"
             }
+          },
+          {
+            "id": "a0861787885ace73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Pandas podstawowe operacje na danych.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pandas podstawowe operacje na danych"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82867c2d53682619",
+  "active": "a0861787885ace73",
   "lastOpenFiles": [
-    "Notes/DataStack/Rysunek maltplotlib.md",
     "Notes/DataStack/Pandas początek i wczytywanie danych.md",
+    "Notes/Pandas podstawowe operacje na danych.md",
+    "Notes/DataStack/Rysunek maltplotlib.md",
     "Notes/DataStack/DataFrame.md",
     "Notes/DataStack/Struktura projektu Data Science.md",
     "Notes/Docker/Docker.md",
@@ -226,7 +241,6 @@
     "Notes/Metaclass.md",
     "Template/Command Template.md",
     "Untitled.canvas",
-    "Template/Default Template.md",
     "Protocols Python",
     "Notes",
     "Template"
