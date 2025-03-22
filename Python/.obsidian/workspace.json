@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pandas podstawowe operacje na danych.md",
+                "file": "Notes/DataStack/Pandas podstawowe operacje na danych.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0861787885ace73",
+  "active": "5d97a957da2bdd5d",
   "lastOpenFiles": [
     "Notes/DataStack/Pandas początek i wczytywanie danych.md",
-    "Notes/Pandas podstawowe operacje na danych.md",
+    "Notes/DataStack/Pandas podstawowe operacje na danych.md",
     "Notes/DataStack/Rysunek maltplotlib.md",
     "Notes/DataStack/DataFrame.md",
     "Notes/DataStack/Struktura projektu Data Science.md",
