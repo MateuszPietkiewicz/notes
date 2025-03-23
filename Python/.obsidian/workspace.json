@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DataStack/Rysunek maltplotlib.md",
+                "file": "Notes/DataStack/Pandas początek i wczytywanie danych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rysunek maltplotlib"
+              "title": "Pandas początek i wczytywanie danych"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Pandas podstawowe operacje na danych"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d97a957da2bdd5d",
+  "active": "0233c0c7a28f14d2",
   "lastOpenFiles": [
-    "Notes/DataStack/Pandas początek i wczytywanie danych.md",
-    "Notes/DataStack/Pandas podstawowe operacje na danych.md",
     "Notes/DataStack/Rysunek maltplotlib.md",
+    "Notes/DataStack/Pandas podstawowe operacje na danych.md",
+    "Notes/DataStack/Pandas początek i wczytywanie danych.md",
     "Notes/DataStack/DataFrame.md",
     "Notes/DataStack/Struktura projektu Data Science.md",
     "Notes/Docker/Docker.md",

@@ -11,7 +11,6 @@ import pandas as pd
 Importowanie danych:
 
 
-
 ```python
 import io
 
