@@ -49,7 +49,7 @@ uv run example.py
 ```
 
 
- #empty 
+
 ---
 Metadata:
 
