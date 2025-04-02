@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0233c0c7a28f14d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/UV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UV"
-            }
-          },
-          {
-            "id": "59c236edf2480886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Dodawanie paczek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dodawanie paczek"
-            }
-          },
-          {
             "id": "5a8b2c5d8b6b5152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Modele do szeregów stacjonarnych.md",
+                "file": "Notes/DataStack/Modele do szeregów stacjonarnych (AR i MA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modele do szeregów stacjonarnych"
+              "title": "Modele do szeregów stacjonarnych (AR i MA)"
             }
           },
           {
-            "id": "82867c2d53682619",
+            "id": "cb82e8ef1b563a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DataStack/Pandas początek i wczytywanie danych.md",
+                "file": "Notes/Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas początek i wczytywanie danych"
-            }
-          },
-          {
-            "id": "a0861787885ace73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/DataStack/Pandas podstawowe operacje na danych.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pandas podstawowe operacje na danych"
+              "title": "Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,14 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8b2c5d8b6b5152",
+  "active": "cb82e8ef1b563a57",
   "lastOpenFiles": [
-    "Notes/Dodawanie paczek.md",
-    "Notes/Modele do szeregów stacjonarnych.md",
+    "Notes/DataStack/Modele do szeregów stacjonarnych (AR i MA).md",
+    "Notes/Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX).md",
     "Notes/UV.md",
+    "Notes/Dodawanie paczek.md",
     "Notes/DataStack/Pandas początek i wczytywanie danych.md",
-    "Notes/DataStack/Rysunek maltplotlib.md",
     "Notes/DataStack/Pandas podstawowe operacje na danych.md",
+    "Notes/DataStack/Rysunek maltplotlib.md",
     "Notes/DataStack/DataFrame.md",
     "Notes/DataStack/Struktura projektu Data Science.md",
     "Notes/Docker/Docker.md",
@@ -267,7 +226,6 @@
     "Pasted image 20250211222957.png",
     "CV/Socials.md",
     "CV",
-    "Notes/example.md",
     "Untitled.canvas",
     "Protocols Python",
     "Notes",
