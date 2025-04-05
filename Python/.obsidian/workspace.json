@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX).md",
+                "file": "Notes/DataStack/Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX).md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 405.5
   },
   "right": {
     "id": "905d5a3b995a9739",
@@ -192,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb82e8ef1b563a57",
+  "active": "5a8b2c5d8b6b5152",
   "lastOpenFiles": [
+    "Notes/DataStack/Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX).md",
     "Notes/DataStack/Modele do szeregów stacjonarnych (AR i MA).md",
-    "Notes/Modele szeregów stacjonarnych (ARMA, ARIMAX, SARIMAX).md",
     "Notes/UV.md",
     "Notes/Dodawanie paczek.md",
     "Notes/DataStack/Pandas początek i wczytywanie danych.md",
